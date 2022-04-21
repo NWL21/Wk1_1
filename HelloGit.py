@@ -1,1 +1,2 @@
-print("Hello Git")
+while 1:
+    print("Hello Git")
